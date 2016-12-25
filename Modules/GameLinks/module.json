@@ -1,0 +1,15 @@
+{
+    "name": "GameLinks",
+    "alias": "gamelinks",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\GameLinks\\Providers\\GameLinksServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ]
+}
